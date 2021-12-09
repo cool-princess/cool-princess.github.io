@@ -1,14 +1,4 @@
 @font-face {
-  font-family: Yugo-m;
-  src: url(../font/YuGothM.ttc);
-}
-
-@font-face {
-  font-family: Yugo-b;
-  src: url(../font/YuGothB.ttc);
-}
-
-@font-face {
   font-family: Kozu-m;
   src: url(../font/KozMinPro-Medium.otf);
 }
